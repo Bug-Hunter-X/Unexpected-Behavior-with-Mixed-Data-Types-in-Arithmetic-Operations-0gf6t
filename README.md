@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP related to loose typing and arithmetic operations. The `calculate_sum` function attempts to sum an array of numbers, but the presence of a string element ('4a') leads to unexpected behavior. The solution showcases how to handle such scenarios using strict type checking or alternative approaches.
